@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1749926962',resources: [
-      '/assets/css/jekyll-theme-chirpy.css',
-      '/',
+    cacheName: 'chirpy-1749927441',resources: [
+      '/felipadilla.github.io/assets/css/jekyll-theme-chirpy.css',
+      '/felipadilla.github.io/',
       
-        '/categories/',
+        '/felipadilla.github.io/categories/',
       
-        '/tags/',
+        '/felipadilla.github.io/tags/',
       
-        '/archives/',
+        '/felipadilla.github.io/archives/',
       
-        '/about/',
+        '/felipadilla.github.io/about/',
       
 
       
